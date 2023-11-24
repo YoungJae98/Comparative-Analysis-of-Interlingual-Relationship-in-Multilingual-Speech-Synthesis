@@ -31,7 +31,7 @@ French CER result
 | CER | 0.1 | 0.2 | 0.01 | 0.05 | 0.3 | 0.01 | 0.05 | 0.3 | 0.3 |
 
 Russian CER result
-| | Only_Rus | Rus_Eng | Rus_Ger | Eng_Dut | Rus_Spa | Rus_Por | Rus_Fre | Rus_Ukr | Rus_Pol |
+| | Only_Rus | Rus_Eng | Rus_Ger | Rus_Dut | Rus_Spa | Rus_Por | Rus_Fre | Rus_Ukr | Rus_Pol |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | CER | 0.1 | 0.2 | 0.01 | 0.05 | 0.3 | 0.01 | 0.05 | 0.3 | 0.3 |
 
