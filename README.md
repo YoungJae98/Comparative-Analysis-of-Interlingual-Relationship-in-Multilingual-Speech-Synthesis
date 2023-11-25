@@ -18,7 +18,7 @@ Dutch CER result
 Spanish CER result
 | | Only_Spa | Spa_Eng | Spa_Ger | Spa_Dut | Spa_Por | Spa_Fre | Spa_Rus | Spa_Ukr | Spa_Pol | all_lang |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| CER | 0.024085 | 0.2 | 0.01 | 0.05 | 0.14969 | 0.064762 | 0.05 | 0.3 | 0.3 | 0.090361 |
+| CER | 0.024085 | 0.071269 | 0.088101 | 0.381413 | 0.14969 | 0.064762 | 0.172016 | 0.0 | 0.090458 | 0.090361 |
 
 Portuguese CER result
 | | Only_Por | Por_Eng | Por_Ger | Por_Dut | Por_Spa | Por_Fre | Por_Rus | Por_Ukr | Por_Pol | all_lang |
