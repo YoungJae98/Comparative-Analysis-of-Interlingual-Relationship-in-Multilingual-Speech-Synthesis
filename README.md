@@ -38,7 +38,7 @@ Russian CER result
 Ukrainian CER result
 | | Only_Ukr | Ukr_Eng | Ukr_Ger | Ukr_Dut | Ukr_Spa | Ukr_Por | Ukr_Fre | Ukr_Rus | Ukr_Pol | all_lang |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| CER | 0.174072 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.219816 | 0.189239 | 0.25402 |
+| CER | 0.174072 | 0.180890 | 0.218829 | 0.204811 | 0.0 | 0.183828 | 0.220734 | 0.219816 | 0.189239 | 0.25402 |
 
 Polish CER result
 | | Only_Pol | Pol_Eng | Pol_Ger | Pol_Dut | Pol_Spa | Pol_Por | Pol_Fre | Pol_Rus | Pol_Ukr | all_lang |
