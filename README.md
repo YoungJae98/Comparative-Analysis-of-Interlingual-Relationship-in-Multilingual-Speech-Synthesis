@@ -18,7 +18,7 @@ Dutch CER result
 Spanish CER result
 | | Only_Spa | Spa_Eng | Spa_Ger | Spa_Dut | Spa_Por | Spa_Fre | Spa_Rus | Spa_Ukr | Spa_Pol | all_lang |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| CER | 0.024085 | 0.071269 | 0.088101 | 0.381413 | 0.14969 | 0.064762 | 0.172016 | 0.0 | 0.090458 | 0.090361 |
+| CER | 0.024085 | 0.071269 | 0.088101 | 0.381413 | 0.14969 | 0.064762 | 0.172016 | 0.067417 | 0.090458 | 0.090361 |
 
 Portuguese CER result
 | | Only_Por | Por_Eng | Por_Ger | Por_Dut | Por_Spa | Por_Fre | Por_Rus | Por_Ukr | Por_Pol | all_lang |
@@ -38,7 +38,7 @@ Russian CER result
 Ukrainian CER result
 | | Only_Ukr | Ukr_Eng | Ukr_Ger | Ukr_Dut | Ukr_Spa | Ukr_Por | Ukr_Fre | Ukr_Rus | Ukr_Pol | all_lang |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| CER | 0.174072 | 0.180890 | 0.218829 | 0.204811 | 0.0 | 0.183828 | 0.220734 | 0.219816 | 0.189239 | 0.25402 |
+| CER | 0.174072 | 0.180890 | 0.218829 | 0.204811 | 0.185440 | 0.183828 | 0.220734 | 0.219816 | 0.189239 | 0.25402 |
 
 Polish CER result
 | | Only_Pol | Pol_Eng | Pol_Ger | Pol_Dut | Pol_Spa | Pol_Por | Pol_Fre | Pol_Rus | Pol_Ukr | all_lang |
