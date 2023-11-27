@@ -28,7 +28,7 @@ Portuguese CER result
 French CER result
 | | Only_Fre | Fre_Eng | Fre_Ger | Fre_Dut | Fre_Spa | Fre_Por | Fre_Rus | Fre_Ukr | Fre_Pol | all_lang |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| CER | 0.109207 | 0.327190 | 0.344704 | 0.04183745 | 0.152163 | 0.236176 | 0.372321 | 0.243924 | 0.243200 | 0.155093 |
+| CER | 0.109207 | 0.327190 | 0.344704 | 0.418374 | 0.152163 | 0.236176 | 0.372321 | 0.243924 | 0.243200 | 0.155093 |
 
 Russian CER result
 | | Only_Rus | Rus_Eng | Rus_Ger | Rus_Dut | Rus_Spa | Rus_Por | Rus_Fre | Rus_Ukr | Rus_Pol | all_lang |
