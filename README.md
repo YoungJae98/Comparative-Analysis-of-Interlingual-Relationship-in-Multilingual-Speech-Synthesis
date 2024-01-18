@@ -1,8 +1,5 @@
-# language_similarity
+# language_similarity in Multilignual TTS
 eng, ger, dut, por 이후 error
-
-# https://docs.google.com/spreadsheets/d/1PwM5-7nmhq5HJoz7x5qmFHyNhcpmpamJ7sTu8-vgyzg/edit#gid=1852779392
-위 링크에 전부 입력 완.
 
 English CER result
 | | Only_Eng | Eng_Ger | Eng_Dut | Eng_Spa | Eng_Por | Eng_Fre | Eng_Rus | Eng_Ukr | Eng_Pol | all_lang |
